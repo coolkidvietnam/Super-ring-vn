@@ -355,7 +355,7 @@ end
 
 -- Send the chat message
 SendChatMessage("Viet Nam script")
-SendChatMessage("script make by c00lkid2k25")
+SendChatMessage("coolkid2k25 script")
 
 -- https://scriptblox.com/script/Infinite-Yield_500
 
