@@ -126,7 +126,7 @@ RadiusCorner.Parent = RadiusDisplay
 local Watermark = Instance.new("TextLabel")
 Watermark.Size = UDim2.new(1, 0, 0, 20)
 Watermark.Position = UDim2.new(0, 0, 1, -20)
-Watermark.Text = "Super Ring [V666] - Hacked By:Roblox"
+Watermark.Text = "Super Ring [VN] make by coolVNteam"
 Watermark.TextColor3 = Color3.fromRGB(101, 67, 33) -- Dark brown
 Watermark.BackgroundTransparency = 1
 Watermark.Font = Enum.Font.Fondamento
@@ -338,7 +338,7 @@ local content, isReady = Players:GetUserThumbnailAsync(userId, thumbType, thumbS
 
 StarterGui:SetCore("SendNotification", {
     Title = "script Viet Nam 🇻🇳",
-    Text = "Created By: coolkid",
+    Text = "Created By: coolvietnam team",
     Icon = content,
     Duration = 5
 })
@@ -355,7 +355,7 @@ end
 
 -- Send the chat message
 SendChatMessage("Viet Nam script")
-SendChatMessage("coolkid2k25 script")
+SendChatMessage("join team coolvietnam in to day")
 
 -- https://scriptblox.com/script/Infinite-Yield_500
 
